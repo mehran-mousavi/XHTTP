@@ -1,4 +1,4 @@
-const TARGET_BASE = "http://remote.runflare.com:30816";
+const TARGET_BASE = "https://fly-test-1t3ntg.fly.dev:443";
 
 const STRIP_HEADERS = new Set([
   "host",

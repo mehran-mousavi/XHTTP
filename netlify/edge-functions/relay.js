@@ -1,4 +1,4 @@
-const TARGET_BASE = "https://cog-api.runflare.run:443";
+const TARGET_BASE = "http://remote.runflare.com:30816";
 
 const STRIP_HEADERS = new Set([
   "host",

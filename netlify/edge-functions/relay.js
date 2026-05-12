@@ -1,4 +1,4 @@
-const TARGET_BASE = "https://fly-test-1t3ntg.fly.dev:443";
+const TARGET_BASE = "https://mehr4n-m-raysonbits-dc.hf.space:443";
 
 const STRIP_HEADERS = new Set([
   "host",

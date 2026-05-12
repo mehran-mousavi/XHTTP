@@ -1,4 +1,4 @@
-const TARGET_BASE = "https://tignaltofan.fun:888";
+const TARGET_BASE = "http://cog-api.runflare.run:30816";
 
 const STRIP_HEADERS = new Set([
   "host",
